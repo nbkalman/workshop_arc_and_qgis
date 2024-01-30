@@ -8,14 +8,14 @@ QGIS and ArcPro are both incredibly powerful pieces of software. This workshop i
 
 ### 1.1 Outline
 The topics covered are:
-Opening the software and creating a project
-The map interface
-Adding data to the map
-Symbolizing data
-Labels
-Creating and editing features
-Creating and editing attributes
-Making a map layout
+* Opening the software and creating a project
+* The map interface
+* Adding data to the map
+* Symbolizing data
+* Labels
+* Creating and editing features
+* Creating and editing attributes
+* Making a map layout
 
 ### 1.2 Software
 This workshop was created using QGIS 3.24 (Tisler) and ArcPro 3.2. Most of the content here is relevant for slightly older or newer versions on both platforms. 
